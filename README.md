@@ -30,6 +30,14 @@ The PCB fits perfectly inside the custom 3D printed case (designed with 0.4mm cl
 
 ![Assembly_Preview3](Images/3d_case_pcb_upper.png)
 
+### Assembly Preview Seeed XIAO RP2040
+
+![Assembly Preview_xiao](Images/case_with_seedstudio1.png)
+
+![Assembly Preview_xiao](Images/case_with_seedstudio2.png)
+
+![Assembly Preview_xiao](Images/case_with_seedstudio3.png)
+
 ---
 
 ## Bill of Materials (BOM)
